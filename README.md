@@ -1,6 +1,6 @@
 # Partners list
 
-[Project link](http://)
+[Project link](https://lifein2020.github.io/partners_list/)
 
 **Used technologies:**
 * HTML
