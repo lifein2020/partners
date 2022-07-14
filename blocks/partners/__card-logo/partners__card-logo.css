@@ -1,0 +1,17 @@
+.partners__card-logo {
+  width: 60px;
+  height: 60px;
+  margin: 30px 105px;
+}
+
+@media screen and (max-width: 1160px) {
+  .partners__card-logo {
+    margin: 30px 85px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .partners__card-logo {
+    margin: 40px 138px;
+  }
+}

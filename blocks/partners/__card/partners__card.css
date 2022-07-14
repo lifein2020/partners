@@ -1,0 +1,40 @@
+.partners__card {
+  width: 268px;
+  height: 120px;
+  margin-right: 30px;
+  margin-top: 20px;
+  text-align: center;
+  border: 1px solid #EBEBF1;
+  border-radius: 5px;
+  box-shadow: none;
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.partners__card:hover {
+  box-shadow: 0 0 15px 5px rgba(235, 235, 241, 1);
+}
+
+.partners__card:nth-child(4n) {
+  margin-right: 0;
+}
+
+@media screen and (max-width: 1440px) {
+  .partners__card {
+    margin-right: 20px;
+  }
+  .partners__card:nth-child(4n) {
+    margin-right: 20px;
+  }
+}
+
+@media screen and (max-width: 1160px) {
+  .partners__card {
+    width: 227px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .partners__card {
+    width: 333px;
+  }
+}

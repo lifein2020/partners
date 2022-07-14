@@ -1,0 +1,10 @@
+.header__form {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 899px;
+  height: 40px;
+  margin: 0 40px 0;
+  border: 1px solid #EBEBF1;
+  border-radius: 5px;
+}

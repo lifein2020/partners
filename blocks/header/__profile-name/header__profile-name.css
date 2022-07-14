@@ -1,0 +1,11 @@
+.header__profile-name {
+  margin: 0 10px 0 19px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: right;
+  letter-spacing: 0.01em;
+  color: #768298;
+}

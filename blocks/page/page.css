@@ -1,0 +1,12 @@
+.page {
+  margin: 0 auto;
+  min-width: 375px;
+  background-color: #FFFFFF;
+  /*вендорное св-во для сглаживания кастомных шрифтов*/
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /*подгонка размера текста под масштаб страницы*/
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+}

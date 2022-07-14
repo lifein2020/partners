@@ -1,0 +1,17 @@
+.header__form-button {
+  margin: 0 9px 0 14px;
+  padding: 0;
+  width: 16px;
+  height: 16px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+@media screen and (max-width: 767px) {
+  .header__form-button {
+    margin: 0 9px 0 24px;
+  }
+}
+

@@ -1,0 +1,24 @@
+.partners__title {
+  margin: 0;
+  padding-bottom: 10px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 58px;
+  text-transform: uppercase;
+  color: #121920;
+}
+
+@media screen and (max-width: 1440px) {
+  .partners__title {
+    padding-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 1160px) {
+  .partners__title {
+    font-size: 28px;
+    line-height: 45px;
+  }
+}
