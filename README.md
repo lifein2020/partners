@@ -1,4 +1,4 @@
-# Partners list
+# Partners
 
 [Project link](https://our-partners.vercel.app/)
 
