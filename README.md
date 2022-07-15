@@ -11,3 +11,4 @@
 **Functionality:**
 * search line
 * external links
+# partners
