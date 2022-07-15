@@ -1,6 +1,6 @@
 # Partners list
 
-[Project link](https://lifein2020.github.io/partners_list/)
+[Project link](https://our-partners.vercel.app/)
 
 **Used technologies:**
 * HTML
@@ -11,4 +11,3 @@
 **Functionality:**
 * search line
 * external links
-# partners
